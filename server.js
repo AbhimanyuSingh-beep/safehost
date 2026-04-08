@@ -135,7 +135,7 @@ app.get("/api/price_flags", async (req, res) => {
 // ── Start ────────────────────────────────────────────────────────
 const PORT = process.env.PORT || 3000;
 initDB().then(() => {
-  app.listen(PORT, () => console.log(`🚀 SafeStay API running at http://localhost:${PORT}`));
+  app.listen(PORT, '0.0.0.0', () => console.log(`🚀 SafeStay API running at http://localhost:${PORT}`));
 }).catch(err => {
   console.error("❌ DB init failed:", err.message);
   process.exit(1);
