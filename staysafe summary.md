@@ -5,6 +5,7 @@
 
 **Live Demo:** [https://safehost.onrender.com](https://safehost.onrender.com)  
 **GitHub:** [https://github.com/AbhimanyuSingh-beep/safehost](https://github.com/AbhimanyuSingh-beep/safehost)
+**GITHUB TEAM MEMBER LINK:** [https://github.com/yahaha8](https://github.com/yahaha8)
 
 ---
 
